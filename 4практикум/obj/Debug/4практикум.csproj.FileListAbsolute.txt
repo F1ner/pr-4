@@ -1,0 +1,7 @@
+K:\Абабий Илья\4практикум\bin\Debug\4практикум.exe.config
+K:\Абабий Илья\4практикум\bin\Debug\4практикум.exe
+K:\Абабий Илья\4практикум\bin\Debug\4практикум.pdb
+K:\Абабий Илья\4практикум\obj\Debug\4практикум.csproj.AssemblyReference.cache
+K:\Абабий Илья\4практикум\obj\Debug\4практикум.csproj.CoreCompileInputs.cache
+K:\Абабий Илья\4практикум\obj\Debug\4практикум.exe
+K:\Абабий Илья\4практикум\obj\Debug\4практикум.pdb
